@@ -1,0 +1,62 @@
+about:
+  description: The Modern Application Platform.
+  license: Apache-2.0
+  homepage: https://kubevela.io
+  head: a85ef51
+  archived: false
+  latestVersion: v1.11.0
+  collectedAt: 2026-08-29T07:32:28Z
+timeline:
+  created: 2020-07-03
+  lastCommit: 2026-08-28
+  lastRelease: 2026-07-20
+popularity:
+  star: 7890
+  watcher: 103
+  fork: 1063
+  release: 212
+  contributor: 289
+  pullRequest: 873
+  issue: 2197
+language:
+  Go: 8640694
+  CUE: 311423
+  Mustache: 42169
+  Shell: 34856
+  Makefile: 26747
+  Dockerfile: 1694
+  HCL: 1188
+totalLine: 9058771
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 17
+    openPR: 30
+    closedIssue: 7
+    openIssue: 18
+    commit: 21
+  last90d:
+    since: 2026-05-31
+    release: 6
+    mergedPR: 53
+    openPR: 67
+    closedIssue: 15
+    openIssue: 25
+    commit: 53
+  last180d:
+    since: 2026-03-02
+    release: 10
+    mergedPR: 89
+    openPR: 81
+    closedIssue: 29
+    openIssue: 45
+    commit: 83
+  last360d:
+    since: 2025-09-03
+    release: 14
+    mergedPR: 164
+    openPR: 94
+    closedIssue: 69
+    openIssue: 64
+    commit: 153

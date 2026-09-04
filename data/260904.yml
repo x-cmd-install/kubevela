@@ -7,7 +7,7 @@ about:
   head: e6bbce3
   archived: false
   latestVersion: v1.11.0
-  collectedAt: 2026-09-04T20:12:57Z
+  collectedAt: 2026-09-04T20:28:41Z
 timeline:
   created: 2020-07-03
   lastCommit: 2026-09-02
@@ -87,7 +87,7 @@ total:
   commit: 4145
 ---
 path: /home/runner/.x-repo/github.com/kubevela/kubevela
-collectedAt: 2026-09-04T20:13:01Z
+collectedAt: 2026-09-04T20:28:46Z
 loc:
   Go:
     code: 214842

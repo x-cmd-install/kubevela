@@ -1,0 +1,92 @@
+- repo: homebrew
+  srcname: kubevela
+  visiblename: kubevela
+  version: 1.11.0
+  origversion: null
+  status: newest
+  summary: Application Platform based on Kubernetes and Open Application Model
+- repo: homebrew
+  srcname: kubevela
+  visiblename: kubevela
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Application Platform based on Kubernetes and Open Application Model
+- repo: nix_stable_24_05
+  srcname: kubevela
+  visiblename: kubevela
+  version: 1.9.11
+  origversion: null
+  status: outdated
+  summary: An application delivery platform to deploy and operate applications in hybrid, multi-cloud environments
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: kubevela
+  binname: kubevela
+  visiblename: kubevela
+  version: 1.8.1
+  origversion: 1.8.1-1
+  status: outdated
+  summary: The Modern Application Platform. (CLI)
+  maintainers:
+    - cjc7373@aur
+  licenses:
+    - Apache
+- repo: nix_stable_24_11
+  srcname: kubevela
+  visiblename: kubevela
+  version: 1.9.13
+  origversion: null
+  status: outdated
+  summary: Application delivery platform to deploy and operate applications in hybrid, multi-cloud environments
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: kubevela
+  visiblename: kubevela
+  version: 1.10.2
+  origversion: null
+  status: outdated
+  summary: Application delivery platform to deploy and operate applications in hybrid, multi-cloud environments
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: kubevela
+  visiblename: kubevela
+  version: 1.10.5
+  origversion: null
+  status: outdated
+  summary: Application delivery platform to deploy and operate applications in hybrid, multi-cloud environments
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: kubevela
+  visiblename: kubevela
+  version: 1.10.8
+  origversion: null
+  status: outdated
+  summary: Application delivery platform to deploy and operate applications in hybrid, multi-cloud environments
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: kubevela
+  visiblename: kubevela
+  version: 1.11.0
+  origversion: null
+  status: newest
+  summary: Application delivery platform to deploy and operate applications in hybrid, multi-cloud environments
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0

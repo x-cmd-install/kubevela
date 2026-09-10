@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.11.0"
   latestRelease: "v1.11.0"
   latestPrerelease: "v1.11.0-alpha.3"
-  collectedAt: 2026-09-10T16:46:22Z
+  collectedAt: 2026-09-10T21:30:39Z
 timeline:
   created: 2020-07-03
   lastCommit: 2026-09-10
@@ -89,7 +89,7 @@ total:
   commit: 4153
 ---
 path: /home/runner/.x-repo/github.com/kubevela/kubevela
-collectedAt: 2026-09-10T16:46:32Z
+collectedAt: 2026-09-10T21:30:48Z
 loc:
   Go:
     code: 223038

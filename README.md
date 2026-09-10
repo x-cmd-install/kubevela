@@ -12,6 +12,28 @@ The Modern Application Platform.
 x install kubevela
 ```
 
+## Code insight
+
+Total: **305,480** lines of code across **1600** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 223,038 | 33,084 | 28,145 | 973 |
+| Yaml | 75,172 | 752 | 1,089 | 582 |
+| Json | 4,468 | 0 | 1 | 16 |
+| Mustache | 1,177 | 4 | 202 | 9 |
+| Sh | 867 | 187 | 198 | 20 |
+
+## OpenSSF Scorecard
+
+Overall score: **8.2 / 10**
+
+Lowest-scoring checks:
+
+- **CII-Best-Practices** (2/10) — badge detected: InProgress
+- **Fuzzing** (0/10) — project is not fuzzed
+- **Vulnerabilities** (0/10) — 85 existing vulnerabilities detected
+
 ## Source
 
 - **Upstream**: <https://github.com/kubevela/kubevela>
@@ -23,6 +45,25 @@ x install kubevela
 - **Latest**: `v1.11.0` (2026-07-20)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 42
+
+## Popularity
+
+- **Stars**: 7,894 · **Forks**: 1,066 · **Open issues**: 2,206 · **Contributors**: 290
+
+## Totals (cumulative)
+
+- **Releases**: 212 · **Merged PRs**: 4005 · **Open PRs**: 116 · **Closed issues**: 2051 · **Open issues**: 155 · **Commits**: 4153
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 19 | 32 | 7 | 10 | 16 |
+| last60d | 2026-07-12 | 1 | 36 | 49 | 19 | 24 | 44 |
+| 90d | 2026-06-12 | 6 | 59 | 57 | 22 | 25 | 57 |
+| last180d | 2026-03-14 | 10 | 86 | 80 | 39 | 44 | 84 |
+| 360d | 2025-09-15 | 14 | 163 | 93 | 70 | 62 | 155 |
+| last720d | 2024-09-20 | 20 | 255 | 104 | 118 | 91 | 243 |
 
 ## Release assets
 
@@ -71,43 +112,14 @@ x install kubevela
 | [vela.exe-1.11.0-windows-amd64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela.exe-1.11.0-windows-amd64.spdx.sbom.json) | 425.5 KiB | `native/win/x64` |
 | [vela.exe-1.11.0-windows-arm64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela.exe-1.11.0-windows-arm64.spdx.sbom.json) | 425.5 KiB | `native/win/arm64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 7,894 · **Forks**: 1,066 · **Open issues**: 2,206 · **Contributors**: 290
+Reported by **9** distros on [repology.org](https://repology.org/project/kubevela). **2** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 212 · **Merged PRs**: 4005 · **Open PRs**: 116 · **Closed issues**: 2051 · **Open issues**: 155 · **Commits**: 4153
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 19 | 32 | 7 | 10 | 16 |
-| 90d | 2026-06-12 | 6 | 59 | 57 | 22 | 25 | 57 |
-| 360d | 2025-09-15 | 14 | 163 | 93 | 70 | 62 | 155 |
-
-## Code size
-
-Total: **305,480** lines of code across **1600** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 223,038 | 33,084 | 28,145 | 973 |
-| Yaml | 75,172 | 752 | 1,089 | 582 |
-| Json | 4,468 | 0 | 1 | 16 |
-| Mustache | 1,177 | 4 | 202 | 9 |
-| Sh | 867 | 187 | 198 | 20 |
-
-## OpenSSF Scorecard
-
-Overall score: **8.2 / 10**
-
-Lowest-scoring checks:
-
-- **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Fuzzing** (0/10) — project is not fuzzed
-- **Vulnerabilities** (0/10) — 85 existing vulnerabilities detected
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.11.0` | ✅ latest |
+| Nix unstable | `1.11.0` | ✅ latest |
 
 ## Improve this data
 
@@ -118,4 +130,4 @@ Install metadata for kubevela lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:46:38Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:30:56Z._

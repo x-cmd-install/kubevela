@@ -12,6 +12,28 @@ The Modern Application Platform.
 x install kubevela
 ```
 
+## 代码规模
+
+合计: **305,480** 行代码（覆盖前 5 种语言、共 **1600** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 223,038 | 33,084 | 28,145 | 973 |
+| Yaml | 75,172 | 752 | 1,089 | 582 |
+| Json | 4,468 | 0 | 1 | 16 |
+| Mustache | 1,177 | 4 | 202 | 9 |
+| Sh | 867 | 187 | 198 | 20 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **8.2 / 10**
+
+评分最低的几项:
+
+- **CII-Best-Practices** (2/10) — badge detected: InProgress
+- **Fuzzing** (0/10) — project is not fuzzed
+- **Vulnerabilities** (0/10) — 85 existing vulnerabilities detected
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/kubevela/kubevela>
@@ -23,6 +45,25 @@ x install kubevela
 - **最新版本**: `v1.11.0` (2026-07-20)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 42 个
+
+## 流行度
+
+- **Star**: 7,894 · **Fork**: 1,066 · **开放 issue**: 2,206 · **贡献者**: 290
+
+## 累计统计
+
+- **发布数**: 212 · **已合并 PR**: 4005 · **开放 PR**: 116 · **已关闭 issue**: 2051 · **开放 issue**: 155 · **提交数**: 4153
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 19 | 32 | 7 | 10 | 16 |
+| last60d | 2026-07-12 | 1 | 36 | 49 | 19 | 24 | 44 |
+| 90d | 2026-06-12 | 6 | 59 | 57 | 22 | 25 | 57 |
+| last180d | 2026-03-14 | 10 | 86 | 80 | 39 | 44 | 84 |
+| 360d | 2025-09-15 | 14 | 163 | 93 | 70 | 62 | 155 |
+| last720d | 2024-09-20 | 20 | 255 | 104 | 118 | 91 | 243 |
 
 ## Release 资产
 
@@ -71,43 +112,14 @@ x install kubevela
 | [vela.exe-1.11.0-windows-amd64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela.exe-1.11.0-windows-amd64.spdx.sbom.json) | 425.5 KiB | `native/win/x64` |
 | [vela.exe-1.11.0-windows-arm64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela.exe-1.11.0-windows-arm64.spdx.sbom.json) | 425.5 KiB | `native/win/arm64` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 7,894 · **Fork**: 1,066 · **开放 issue**: 2,206 · **贡献者**: 290
+在 [repology.org](https://repology.org/project/kubevela) 上共有 **9** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 212 · **已合并 PR**: 4005 · **开放 PR**: 116 · **已关闭 issue**: 2051 · **开放 issue**: 155 · **提交数**: 4153
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 19 | 32 | 7 | 10 | 16 |
-| 90d | 2026-06-12 | 6 | 59 | 57 | 22 | 25 | 57 |
-| 360d | 2025-09-15 | 14 | 163 | 93 | 70 | 62 | 155 |
-
-## 代码规模
-
-合计: **305,480** 行代码（覆盖前 5 种语言、共 **1600** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 223,038 | 33,084 | 28,145 | 973 |
-| Yaml | 75,172 | 752 | 1,089 | 582 |
-| Json | 4,468 | 0 | 1 | 16 |
-| Mustache | 1,177 | 4 | 202 | 9 |
-| Sh | 867 | 187 | 198 | 20 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **8.2 / 10**
-
-评分最低的几项:
-
-- **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Fuzzing** (0/10) — project is not fuzzed
-- **Vulnerabilities** (0/10) — 85 existing vulnerabilities detected
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `1.11.0` | ✅ latest |
+| Nix unstable | `1.11.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -118,4 +130,4 @@ kubevela 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:46:39Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:30:57Z._

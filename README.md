@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 19 | 32 | 7 | 10 | 16 |
-| last60d | 2026-07-12 | 1 | 36 | 49 | 19 | 24 | 44 |
-| 90d | 2026-06-12 | 6 | 59 | 57 | 22 | 25 | 57 |
-| last180d | 2026-03-14 | 10 | 86 | 80 | 39 | 44 | 84 |
-| 360d | 2025-09-15 | 14 | 163 | 93 | 70 | 62 | 155 |
-| last720d | 2024-09-20 | 20 | 255 | 104 | 118 | 91 | 243 |
+| 30d | 2026-08-12 | 0 | 16 | 23 | 6 | 10 | 16 |
+| last60d | 2026-07-13 | 1 | 36 | 49 | 19 | 24 | 44 |
+| 90d | 2026-06-13 | 6 | 59 | 57 | 22 | 25 | 57 |
+| last180d | 2026-03-15 | 10 | 85 | 80 | 39 | 44 | 84 |
+| 360d | 2025-09-16 | 14 | 162 | 93 | 69 | 62 | 155 |
+| last720d | 2024-09-21 | 20 | 255 | 104 | 118 | 91 | 242 |
 
 ## Release assets
 
@@ -130,4 +130,4 @@ Install metadata for kubevela lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:30:52Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:01:06Z._

@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 - **Vulnerabilities** (0/10) — 85 existing vulnerabilities detected
-- **Branch-Protection** (-1/10) — internal error: error during GetBranch(release-1.9): error during branchesHandler.query: internal error: githubv4.Query:…
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.11.0` (2026-07-20)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-14
 - **Assets in release**: 42
 
 ## Popularity
 
-- **Stars**: 7,895 · **Forks**: 1,067 · **Open issues**: 2,206 · **Contributors**: 291
+- **Stars**: 7,896 · **Forks**: 1,067 · **Open issues**: 2,206 · **Contributors**: 291
 
 ## Totals (cumulative)
 
-- **Releases**: 212 · **Merged PRs**: 4006 · **Open PRs**: 116 · **Closed issues**: 2052 · **Open issues**: 154 · **Commits**: 4154
+- **Releases**: 212 · **Merged PRs**: 4007 · **Open PRs**: 115 · **Closed issues**: 2052 · **Open issues**: 154 · **Commits**: 4155
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 16 | 13 | 7 | 6 | 16 |
-| last60d | 2026-07-16 | 1 | 34 | 47 | 20 | 22 | 39 |
-| 90d | 2026-06-16 | 6 | 60 | 57 | 23 | 24 | 58 |
-| last180d | 2026-03-18 | 10 | 85 | 80 | 40 | 42 | 78 |
-| 360d | 2025-09-19 | 14 | 158 | 93 | 66 | 60 | 154 |
-| last720d | 2024-09-24 | 20 | 256 | 104 | 119 | 90 | 243 |
+| 30d | 2026-08-16 | 0 | 17 | 12 | 7 | 6 | 17 |
+| last60d | 2026-07-17 | 1 | 32 | 46 | 18 | 22 | 40 |
+| 90d | 2026-06-17 | 6 | 61 | 56 | 23 | 24 | 59 |
+| last180d | 2026-03-19 | 10 | 85 | 79 | 40 | 42 | 79 |
+| 360d | 2025-09-20 | 14 | 159 | 92 | 66 | 60 | 155 |
+| last720d | 2024-09-25 | 20 | 255 | 102 | 118 | 90 | 244 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for kubevela lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:18:58Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:19:49Z._

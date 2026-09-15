@@ -32,7 +32,7 @@ x install kubevela
 
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 - **Vulnerabilities** (0/10) — 85 existing vulnerabilities detected
-- **Branch-Protection** (-1/10) — internal error: error during GetBranch(release-1.9): error during branchesHandler.query: internal error: githubv4.Query:…
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install kubevela
 ## 发布
 
 - **最新版本**: `v1.11.0` (2026-07-20)
-- **最近提交**: 2026-09-11
+- **最近提交**: 2026-09-14
 - **Release 含资产**: 42 个
 
 ## 流行度
 
-- **Star**: 7,895 · **Fork**: 1,067 · **开放 issue**: 2,206 · **贡献者**: 291
+- **Star**: 7,896 · **Fork**: 1,067 · **开放 issue**: 2,206 · **贡献者**: 291
 
 ## 累计统计
 
-- **发布数**: 212 · **已合并 PR**: 4006 · **开放 PR**: 116 · **已关闭 issue**: 2052 · **开放 issue**: 154 · **提交数**: 4154
+- **发布数**: 212 · **已合并 PR**: 4007 · **开放 PR**: 115 · **已关闭 issue**: 2052 · **开放 issue**: 154 · **提交数**: 4155
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 16 | 13 | 7 | 6 | 16 |
-| last60d | 2026-07-16 | 1 | 34 | 47 | 20 | 22 | 39 |
-| 90d | 2026-06-16 | 6 | 60 | 57 | 23 | 24 | 58 |
-| last180d | 2026-03-18 | 10 | 85 | 80 | 40 | 42 | 78 |
-| 360d | 2025-09-19 | 14 | 158 | 93 | 66 | 60 | 154 |
-| last720d | 2024-09-24 | 20 | 256 | 104 | 119 | 90 | 243 |
+| 30d | 2026-08-16 | 0 | 17 | 12 | 7 | 6 | 17 |
+| last60d | 2026-07-17 | 1 | 32 | 46 | 18 | 22 | 40 |
+| 90d | 2026-06-17 | 6 | 61 | 56 | 23 | 24 | 59 |
+| last180d | 2026-03-19 | 10 | 85 | 79 | 40 | 42 | 79 |
+| 360d | 2025-09-20 | 14 | 159 | 92 | 66 | 60 | 155 |
+| last720d | 2024-09-25 | 20 | 255 | 102 | 118 | 90 | 244 |
 
 ## Release 资产
 
@@ -121,4 +121,4 @@ kubevela 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260914.yml` · 2026-09-14T05:18:59Z._
+_数据快照: `data/card/260915.yml` · 2026-09-15T05:19:50Z._

@@ -4,7 +4,7 @@
 
 The Modern Application Platform.
 
-![kubevela](https://repo.x-cmd.io/kubevela.svg?lang=zh)
+[![x-cmd/install — kubevela Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kubevela.svg?lang=zh)](https://x-cmd.com/install/kubevela)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install kubevela
 
 ## 代码洞察
 
-合计: **306,072** 行代码（覆盖前 5 种语言、共 **1600** 个文件）。
+合计: **306,143** 行代码（覆盖前 5 种语言、共 **1600** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 223,630 | 33,188 | 28,235 | 973 |
+| Go | 223,701 | 33,185 | 28,239 | 973 |
 | Yaml | 75,172 | 752 | 1,089 | 582 |
 | Json | 4,468 | 0 | 1 | 16 |
 | Mustache | 1,177 | 4 | 202 | 9 |
@@ -31,8 +31,8 @@ x install kubevela
 评分最低的几项:
 
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Vulnerabilities** (0/10) — 85 existing vulnerabilities detected
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Vulnerabilities** (0/10) — 86 existing vulnerabilities detected
 
 ## 源代码
 
@@ -43,7 +43,7 @@ x install kubevela
 ## 发布
 
 - **最新版本**: `v1.11.0` (2026-07-20)
-- **最近提交**: 2026-09-17
+- **最近提交**: 2026-09-18
 - **Release 含资产**: 42 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install kubevela
 
 ## 累计统计
 
-- **发布数**: 212 · **已合并 PR**: 4009 · **开放 PR**: 117 · **已关闭 issue**: 2054 · **开放 issue**: 154 · **提交数**: 4157
+- **发布数**: 212 · **已合并 PR**: 4010 · **开放 PR**: 117 · **已关闭 issue**: 2054 · **开放 issue**: 154 · **提交数**: 4158
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 15 | 16 | 6 | 5 | 19 |
-| last60d | 2026-07-20 | 1 | 33 | 49 | 19 | 22 | 42 |
-| 90d | 2026-06-20 | 6 | 60 | 58 | 25 | 24 | 61 |
-| last180d | 2026-03-22 | 10 | 86 | 81 | 41 | 42 | 81 |
-| 360d | 2025-09-23 | 14 | 158 | 94 | 64 | 59 | 157 |
-| last720d | 2024-09-28 | 20 | 257 | 104 | 120 | 90 | 245 |
+| 30d | 2026-08-21 | 0 | 10 | 15 | 6 | 5 | 20 |
+| last60d | 2026-07-22 | 0 | 34 | 49 | 19 | 22 | 43 |
+| 90d | 2026-06-22 | 6 | 61 | 58 | 25 | 24 | 62 |
+| last180d | 2026-03-24 | 9 | 86 | 81 | 41 | 42 | 82 |
+| 360d | 2025-09-25 | 14 | 157 | 94 | 64 | 59 | 158 |
+| last720d | 2024-09-30 | 19 | 258 | 104 | 120 | 89 | 246 |
 
 ## Release 资产
 
@@ -121,4 +121,4 @@ kubevela 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:12:51Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:13:38Z._

@@ -4,7 +4,7 @@
 
 The Modern Application Platform.
 
-[![x-cmd/install — kubevela Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kubevela.svg)](https://x-cmd.com/install/kubevela)
+[![x-cmd/install — kubevela Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kubevela.svg)](https://x-cmd.com/install/kubevela)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install kubevela
 
 ## Code insight
 
-Total: **310,163** lines of code across **1627** files in the top 5 languages.
+Total: **339,702** lines of code across **1811** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 227,367 | 33,783 | 28,750 | 998 |
-| Yaml | 75,526 | 752 | 1,089 | 584 |
+| Go | 253,514 | 42,533 | 31,872 | 1159 |
+| Yaml | 78,852 | 989 | 1,167 | 607 |
 | Json | 4,468 | 0 | 1 | 16 |
 | Mustache | 1,177 | 4 | 202 | 9 |
-| Sh | 867 | 187 | 198 | 20 |
+| Sh | 905 | 189 | 198 | 20 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.11.0` (2026-07-20)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-23
 - **Assets in release**: 42
 
 ## Popularity
 
-- **Stars**: 7,898 · **Forks**: 1,068 · **Open issues**: 2,209 · **Contributors**: 291
+- **Stars**: 7,900 · **Forks**: 1,068 · **Open issues**: 2,209 · **Contributors**: 291
 
 ## Totals (cumulative)
 
-- **Releases**: 212 · **Merged PRs**: 4011 · **Open PRs**: 118 · **Closed issues**: 2054 · **Open issues**: 155 · **Commits**: 4159
+- **Releases**: 212 · **Merged PRs**: 4013 · **Open PRs**: 117 · **Closed issues**: 2054 · **Open issues**: 155 · **Commits**: 4161
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 10 | 17 | 6 | 6 | 19 |
-| last60d | 2026-07-24 | 0 | 32 | 48 | 19 | 23 | 36 |
-| 90d | 2026-06-24 | 6 | 58 | 59 | 25 | 25 | 60 |
-| last180d | 2026-03-26 | 9 | 86 | 82 | 41 | 43 | 81 |
-| 360d | 2025-09-27 | 14 | 158 | 95 | 64 | 59 | 153 |
-| last720d | 2024-10-02 | 19 | 259 | 105 | 120 | 90 | 246 |
+| 30d | 2026-08-24 | 0 | 12 | 15 | 6 | 6 | 21 |
+| last60d | 2026-07-25 | 0 | 34 | 47 | 19 | 23 | 38 |
+| 90d | 2026-06-25 | 6 | 60 | 58 | 25 | 25 | 62 |
+| last180d | 2026-03-27 | 9 | 87 | 81 | 40 | 43 | 83 |
+| 360d | 2025-09-28 | 14 | 160 | 94 | 64 | 59 | 155 |
+| last720d | 2024-10-03 | 19 | 261 | 104 | 120 | 90 | 248 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for kubevela lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:20:24Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:13:55Z._

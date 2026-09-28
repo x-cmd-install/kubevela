@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,904 · **Forks**: 1,068 · **Open issues**: 2,210 · **Contributors**: 292
+- **Stars**: 7,904 · **Forks**: 1,069 · **Open issues**: 2,210 · **Contributors**: 292
 
 ## Totals (cumulative)
 
-- **Releases**: 212 · **Merged PRs**: 4017 · **Open PRs**: 118 · **Closed issues**: 2055 · **Open issues**: 155 · **Commits**: 4162
+- **Releases**: 212 · **Merged PRs**: 4017 · **Open PRs**: 121 · **Closed issues**: 2055 · **Open issues**: 155 · **Commits**: 4162
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 13 | 17 | 6 | 7 | 22 |
-| last60d | 2026-07-29 | 0 | 36 | 40 | 18 | 21 | 39 |
-| 90d | 2026-06-29 | 5 | 64 | 58 | 25 | 25 | 63 |
-| last180d | 2026-03-31 | 8 | 87 | 82 | 40 | 43 | 84 |
-| 360d | 2025-10-02 | 13 | 161 | 95 | 64 | 59 | 156 |
-| last720d | 2024-10-07 | 19 | 264 | 105 | 121 | 90 | 249 |
+| 30d | 2026-08-29 | 0 | 13 | 20 | 6 | 7 | 17 |
+| last60d | 2026-07-30 | 0 | 36 | 42 | 18 | 20 | 39 |
+| 90d | 2026-06-30 | 5 | 62 | 61 | 25 | 25 | 61 |
+| last180d | 2026-04-01 | 7 | 87 | 85 | 40 | 43 | 83 |
+| 360d | 2025-10-03 | 13 | 161 | 98 | 63 | 59 | 153 |
+| last720d | 2024-10-08 | 19 | 264 | 108 | 121 | 90 | 249 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for kubevela lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:33:14Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:37:43Z._

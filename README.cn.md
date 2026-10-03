@@ -31,7 +31,7 @@ x install kubevela
 评分最低的几项:
 
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Vulnerabilities** (0/10) — 87 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 88 existing vulnerabilities detected
 - **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
@@ -48,22 +48,22 @@ x install kubevela
 
 ## 流行度
 
-- **Star**: 7,911 · **Fork**: 1,070 · **开放 issue**: 2,221 · **贡献者**: 293
+- **Star**: 7,912 · **Fork**: 1,070 · **开放 issue**: 2,221 · **贡献者**: 293
 
 ## 累计统计
 
-- **发布数**: 212 · **已合并 PR**: 4021 · **开放 PR**: 125 · **已关闭 issue**: 2057 · **开放 issue**: 164 · **提交数**: 4166
+- **发布数**: 212 · **已合并 PR**: 4021 · **开放 PR**: 123 · **已关闭 issue**: 2057 · **开放 issue**: 164 · **提交数**: 4166
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 15 | 24 | 5 | 17 | 21 |
-| last60d | 2026-08-03 | 0 | 40 | 47 | 19 | 27 | 43 |
-| 90d | 2026-07-04 | 3 | 60 | 64 | 26 | 34 | 65 |
-| last180d | 2026-04-05 | 7 | 91 | 90 | 42 | 52 | 87 |
-| 360d | 2025-10-07 | 13 | 164 | 103 | 64 | 68 | 157 |
-| last720d | 2024-10-12 | 19 | 267 | 113 | 123 | 98 | 253 |
+| 30d | 2026-09-03 | 0 | 14 | 24 | 4 | 17 | 21 |
+| last60d | 2026-08-04 | 0 | 39 | 47 | 19 | 26 | 43 |
+| 90d | 2026-07-05 | 3 | 60 | 64 | 26 | 34 | 65 |
+| last180d | 2026-04-06 | 7 | 91 | 87 | 42 | 52 | 87 |
+| 360d | 2025-10-08 | 13 | 164 | 101 | 64 | 67 | 157 |
+| last720d | 2024-10-13 | 19 | 267 | 111 | 123 | 98 | 253 |
 
 ## Release 资产
 
@@ -121,4 +121,4 @@ kubevela 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261002.yml` · 2026-10-02T05:50:55Z._
+_数据快照: `data/card/261003.yml` · 2026-10-03T05:32:28Z._

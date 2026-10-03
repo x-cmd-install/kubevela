@@ -31,7 +31,7 @@ Overall score: **8.2 / 10**
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Vulnerabilities** (0/10) — 87 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 88 existing vulnerabilities detected
 - **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,911 · **Forks**: 1,070 · **Open issues**: 2,221 · **Contributors**: 293
+- **Stars**: 7,912 · **Forks**: 1,070 · **Open issues**: 2,221 · **Contributors**: 293
 
 ## Totals (cumulative)
 
-- **Releases**: 212 · **Merged PRs**: 4021 · **Open PRs**: 125 · **Closed issues**: 2057 · **Open issues**: 164 · **Commits**: 4166
+- **Releases**: 212 · **Merged PRs**: 4021 · **Open PRs**: 123 · **Closed issues**: 2057 · **Open issues**: 164 · **Commits**: 4166
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 15 | 24 | 5 | 17 | 21 |
-| last60d | 2026-08-03 | 0 | 40 | 47 | 19 | 27 | 43 |
-| 90d | 2026-07-04 | 3 | 60 | 64 | 26 | 34 | 65 |
-| last180d | 2026-04-05 | 7 | 91 | 90 | 42 | 52 | 87 |
-| 360d | 2025-10-07 | 13 | 164 | 103 | 64 | 68 | 157 |
-| last720d | 2024-10-12 | 19 | 267 | 113 | 123 | 98 | 253 |
+| 30d | 2026-09-03 | 0 | 14 | 24 | 4 | 17 | 21 |
+| last60d | 2026-08-04 | 0 | 39 | 47 | 19 | 26 | 43 |
+| 90d | 2026-07-05 | 3 | 60 | 64 | 26 | 34 | 65 |
+| last180d | 2026-04-06 | 7 | 91 | 87 | 42 | 52 | 87 |
+| 360d | 2025-10-08 | 13 | 164 | 101 | 64 | 67 | 157 |
+| last720d | 2024-10-13 | 19 | 267 | 111 | 123 | 98 | 253 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for kubevela lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:50:55Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:32:27Z._

@@ -14,12 +14,12 @@ x install kubevela
 
 ## Code insight
 
-Total: **349,765** lines of code across **1875** files in the top 5 languages.
+Total: **353,806** lines of code across **1908** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 262,055 | 45,129 | 33,243 | 1223 |
-| Yaml | 80,369 | 1,009 | 1,204 | 607 |
+| Go | 266,026 | 46,372 | 33,713 | 1256 |
+| Yaml | 80,439 | 1,009 | 1,204 | 607 |
 | Json | 4,468 | 0 | 1 | 16 |
 | Mustache | 1,177 | 4 | 202 | 9 |
 | Sh | 905 | 189 | 198 | 20 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.11.0` (2026-07-20)
-- **Last commit**: 2026-09-29
+- **Last commit**: 2026-10-05
 - **Assets in release**: 42
 
 ## Popularity
 
-- **Stars**: 7,912 · **Forks**: 1,070 · **Open issues**: 2,221 · **Contributors**: 293
+- **Stars**: 7,911 · **Forks**: 1,070 · **Open issues**: 2,221 · **Contributors**: 293
 
 ## Totals (cumulative)
 
-- **Releases**: 212 · **Merged PRs**: 4021 · **Open PRs**: 123 · **Closed issues**: 2057 · **Open issues**: 164 · **Commits**: 4166
+- **Releases**: 212 · **Merged PRs**: 4025 · **Open PRs**: 119 · **Closed issues**: 2057 · **Open issues**: 164 · **Commits**: 4170
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 13 | 24 | 4 | 17 | 21 |
-| last60d | 2026-08-05 | 0 | 38 | 47 | 12 | 22 | 43 |
-| 90d | 2026-07-06 | 2 | 58 | 63 | 26 | 34 | 65 |
-| last180d | 2026-04-07 | 7 | 90 | 87 | 42 | 52 | 87 |
-| 360d | 2025-10-09 | 13 | 164 | 101 | 63 | 67 | 157 |
-| last720d | 2024-10-14 | 19 | 267 | 111 | 122 | 98 | 253 |
+| 30d | 2026-09-05 | 0 | 17 | 20 | 4 | 17 | 17 |
+| last60d | 2026-08-06 | 0 | 40 | 43 | 10 | 22 | 41 |
+| 90d | 2026-07-07 | 2 | 59 | 59 | 25 | 34 | 66 |
+| last180d | 2026-04-08 | 7 | 94 | 83 | 42 | 52 | 90 |
+| 360d | 2025-10-10 | 13 | 168 | 97 | 63 | 67 | 159 |
+| last720d | 2024-10-15 | 18 | 271 | 107 | 122 | 98 | 257 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for kubevela lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:04:53Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T05:54:57Z._

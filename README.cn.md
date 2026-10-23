@@ -14,11 +14,11 @@ x install kubevela
 
 ## 代码洞察
 
-合计: **410,706** 行代码（覆盖前 5 种语言、共 **2401** 个文件）。
+合计: **410,743** 行代码（覆盖前 5 种语言、共 **2401** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 318,138 | 57,923 | 40,060 | 1560 |
+| Go | 318,175 | 57,932 | 40,063 | 1560 |
 | Yaml | 84,568 | 1,505 | 1,229 | 786 |
 | Json | 4,468 | 0 | 1 | 16 |
 | Sh | 1,196 | 263 | 233 | 30 |
@@ -48,22 +48,22 @@ x install kubevela
 
 ## 流行度
 
-- **Star**: 7,914 · **Fork**: 1,075 · **开放 issue**: 2,235 · **贡献者**: 299
+- **Star**: 7,915 · **Fork**: 1,075 · **开放 issue**: 2,237 · **贡献者**: 299
 
 ## 累计统计
 
-- **发布数**: 213 · **已合并 PR**: 4080 · **开放 PR**: 93 · **已关闭 issue**: 2076 · **开放 issue**: 159 · **提交数**: 4220
+- **发布数**: 213 · **已合并 PR**: 4081 · **开放 PR**: 95 · **已关闭 issue**: 2076 · **开放 issue**: 161 · **提交数**: 4221
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 55 | 11 | 9 | 17 | 58 |
-| last60d | 2026-08-23 | 1 | 76 | 14 | 19 | 19 | 81 |
-| 90d | 2026-07-24 | 1 | 101 | 35 | 39 | 29 | 99 |
-| last180d | 2026-04-25 | 7 | 143 | 62 | 60 | 48 | 135 |
-| 360d | 2025-10-27 | 14 | 216 | 70 | 80 | 59 | 201 |
-| last720d | 2024-11-01 | 19 | 325 | 80 | 141 | 92 | 307 |
+| 30d | 2026-09-23 | 1 | 54 | 14 | 9 | 19 | 59 |
+| last60d | 2026-08-24 | 1 | 76 | 16 | 19 | 21 | 82 |
+| 90d | 2026-07-25 | 1 | 102 | 38 | 39 | 31 | 100 |
+| last180d | 2026-04-26 | 7 | 144 | 64 | 60 | 50 | 136 |
+| 360d | 2025-10-28 | 14 | 217 | 72 | 80 | 61 | 202 |
+| last720d | 2024-11-02 | 19 | 326 | 82 | 141 | 94 | 308 |
 
 ## Release 资产
 
@@ -112,6 +112,15 @@ x install kubevela
 | [vela.exe-1.11.0-windows-amd64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela.exe-1.11.0-windows-amd64.spdx.sbom.json) | 425.5 KiB | `native/win/x64` |
 | [vela.exe-1.11.0-windows-arm64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela.exe-1.11.0-windows-arm64.spdx.sbom.json) | 425.5 KiB | `native/win/arm64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/kubevela) 上共有 **9** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `1.11.0` | ✅ latest |
+| Nix unstable | `1.11.0` | ✅ latest |
+
 ## 改进这些数据
 
 kubevela 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `kubevela` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -121,4 +130,4 @@ kubevela 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:59:21Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:06:11Z._

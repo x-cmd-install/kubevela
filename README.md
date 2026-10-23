@@ -14,11 +14,11 @@ x install kubevela
 
 ## Code insight
 
-Total: **410,706** lines of code across **2401** files in the top 5 languages.
+Total: **410,743** lines of code across **2401** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 318,138 | 57,923 | 40,060 | 1560 |
+| Go | 318,175 | 57,932 | 40,063 | 1560 |
 | Yaml | 84,568 | 1,505 | 1,229 | 786 |
 | Json | 4,468 | 0 | 1 | 16 |
 | Sh | 1,196 | 263 | 233 | 30 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,914 · **Forks**: 1,075 · **Open issues**: 2,235 · **Contributors**: 299
+- **Stars**: 7,915 · **Forks**: 1,075 · **Open issues**: 2,237 · **Contributors**: 299
 
 ## Totals (cumulative)
 
-- **Releases**: 213 · **Merged PRs**: 4080 · **Open PRs**: 93 · **Closed issues**: 2076 · **Open issues**: 159 · **Commits**: 4220
+- **Releases**: 213 · **Merged PRs**: 4081 · **Open PRs**: 95 · **Closed issues**: 2076 · **Open issues**: 161 · **Commits**: 4221
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 55 | 11 | 9 | 17 | 58 |
-| last60d | 2026-08-23 | 1 | 76 | 14 | 19 | 19 | 81 |
-| 90d | 2026-07-24 | 1 | 101 | 35 | 39 | 29 | 99 |
-| last180d | 2026-04-25 | 7 | 143 | 62 | 60 | 48 | 135 |
-| 360d | 2025-10-27 | 14 | 216 | 70 | 80 | 59 | 201 |
-| last720d | 2024-11-01 | 19 | 325 | 80 | 141 | 92 | 307 |
+| 30d | 2026-09-23 | 1 | 54 | 14 | 9 | 19 | 59 |
+| last60d | 2026-08-24 | 1 | 76 | 16 | 19 | 21 | 82 |
+| 90d | 2026-07-25 | 1 | 102 | 38 | 39 | 31 | 100 |
+| last180d | 2026-04-26 | 7 | 144 | 64 | 60 | 50 | 136 |
+| 360d | 2025-10-28 | 14 | 217 | 72 | 80 | 61 | 202 |
+| last720d | 2024-11-02 | 19 | 326 | 82 | 141 | 94 | 308 |
 
 ## Release assets
 
@@ -112,6 +112,15 @@ Lowest-scoring checks:
 | [vela.exe-1.11.0-windows-amd64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela.exe-1.11.0-windows-amd64.spdx.sbom.json) | 425.5 KiB | `native/win/x64` |
 | [vela.exe-1.11.0-windows-arm64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela.exe-1.11.0-windows-arm64.spdx.sbom.json) | 425.5 KiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **9** distros on [repology.org](https://repology.org/project/kubevela). **2** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.11.0` | ✅ latest |
+| Nix unstable | `1.11.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for kubevela lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kubevela` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -121,4 +130,4 @@ Install metadata for kubevela lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:59:20Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:06:11Z._

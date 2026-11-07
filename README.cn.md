@@ -14,12 +14,12 @@ x install kubevela
 
 ## 代码洞察
 
-合计: **424,563** 行代码（覆盖前 5 种语言、共 **2473** 个文件）。
+合计: **439,571** 行代码（覆盖前 5 种语言、共 **2578** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 331,562 | 60,255 | 41,435 | 1625 |
-| Yaml | 85,000 | 1,559 | 1,238 | 793 |
+| Go | 347,047 | 62,727 | 42,876 | 1701 |
+| Yaml | 84,522 | 1,589 | 1,241 | 822 |
 | Json | 4,468 | 0 | 1 | 16 |
 | Sh | 1,196 | 263 | 233 | 30 |
 | Mustache | 1,177 | 4 | 202 | 9 |
@@ -42,84 +42,84 @@ x install kubevela
 
 ## 发布
 
-- **最新版本**: `v1.12.0-alpha.1` (2026-07-20)
+- **最新版本**: `v1.11.1` (2026-11-06)
 - **最近提交**: 2026-11-06
 - **Release 含资产**: 42 个
 
 ## 流行度
 
-- **Star**: 7,920 · **Fork**: 1,080 · **开放 issue**: 2,241 · **贡献者**: 299
+- **Star**: 7,919 · **Fork**: 1,078 · **开放 issue**: 2,239 · **贡献者**: 298
 
 ## 累计统计
 
-- **发布数**: 213 · **已合并 PR**: 4104 · **开放 PR**: 106 · **已关闭 issue**: 2080 · **开放 issue**: 161 · **提交数**: 4235
+- **发布数**: 214 · **已合并 PR**: 4114 · **开放 PR**: 101 · **已关闭 issue**: 2081 · **开放 issue**: 158 · **提交数**: 4243
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 54 | 25 | 6 | 11 | 49 |
-| last60d | 2026-09-07 | 1 | 92 | 26 | 16 | 20 | 88 |
-| 90d | 2026-08-08 | 1 | 119 | 42 | 27 | 25 | 108 |
-| last180d | 2026-05-10 | 7 | 166 | 72 | 59 | 43 | 147 |
-| 360d | 2025-11-11 | 14 | 230 | 83 | 80 | 60 | 204 |
-| last720d | 2024-11-16 | 19 | 347 | 93 | 143 | 95 | 322 |
+| 30d | 2026-10-08 | 2 | 65 | 20 | 8 | 9 | 57 |
+| last60d | 2026-09-08 | 2 | 101 | 21 | 18 | 18 | 96 |
+| 90d | 2026-08-09 | 2 | 129 | 36 | 29 | 23 | 116 |
+| last180d | 2026-05-11 | 8 | 177 | 67 | 60 | 40 | 155 |
+| 360d | 2025-11-12 | 14 | 239 | 78 | 82 | 57 | 212 |
+| last720d | 2024-11-17 | 20 | 358 | 88 | 145 | 93 | 330 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [kubectl-vela-1.11.0-darwin-amd64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/kubectl-vela-1.11.0-darwin-amd64.spdx.sbom.json) | 425.6 KiB | `native/darwin/x64` |
-| [kubectl-vela-1.11.0-darwin-arm64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/kubectl-vela-1.11.0-darwin-arm64.spdx.sbom.json) | 425.6 KiB | `native/darwin/arm64` |
-| [kubectl-vela-1.11.0-linux-amd64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/kubectl-vela-1.11.0-linux-amd64.spdx.sbom.json) | 425.6 KiB | `native/linux/x64` |
-| [kubectl-vela-1.11.0-linux-arm64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/kubectl-vela-1.11.0-linux-arm64.spdx.sbom.json) | 425.6 KiB | `native/linux/arm64` |
-| [kubectl-vela-v1.11.0-darwin-amd64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.0/kubectl-vela-v1.11.0-darwin-amd64.tar.gz) | 33.0 MiB | `native/darwin/x64` |
-| [kubectl-vela-v1.11.0-darwin-amd64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.0/kubectl-vela-v1.11.0-darwin-amd64.zip) | 33.0 MiB | `native/darwin/x64` |
-| [kubectl-vela-v1.11.0-darwin-arm64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.0/kubectl-vela-v1.11.0-darwin-arm64.tar.gz) | 31.1 MiB | `native/darwin/arm64` |
-| [kubectl-vela-v1.11.0-darwin-arm64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.0/kubectl-vela-v1.11.0-darwin-arm64.zip) | 31.1 MiB | `native/darwin/arm64` |
-| [kubectl-vela-v1.11.0-linux-amd64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.0/kubectl-vela-v1.11.0-linux-amd64.tar.gz) | 32.3 MiB | `native/linux/x64` |
-| [kubectl-vela-v1.11.0-linux-amd64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.0/kubectl-vela-v1.11.0-linux-amd64.zip) | 32.3 MiB | `native/linux/x64` |
-| [kubectl-vela-v1.11.0-linux-arm64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.0/kubectl-vela-v1.11.0-linux-arm64.tar.gz) | 29.7 MiB | `native/linux/arm64` |
-| [kubectl-vela-v1.11.0-linux-arm64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.0/kubectl-vela-v1.11.0-linux-arm64.zip) | 29.7 MiB | `native/linux/arm64` |
-| [kubectl-vela-v1.11.0-windows-amd64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.0/kubectl-vela-v1.11.0-windows-amd64.tar.gz) | 33.2 MiB | `native/win/x64` |
-| [kubectl-vela-v1.11.0-windows-amd64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.0/kubectl-vela-v1.11.0-windows-amd64.zip) | 33.2 MiB | `native/win/x64` |
-| [kubectl-vela-v1.11.0-windows-arm64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.0/kubectl-vela-v1.11.0-windows-arm64.tar.gz) | 29.8 MiB | `native/win/arm64` |
-| [kubectl-vela-v1.11.0-windows-arm64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.0/kubectl-vela-v1.11.0-windows-arm64.zip) | 29.8 MiB | `native/win/arm64` |
-| [kubectl-vela.exe-1.11.0-windows-amd64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/kubectl-vela.exe-1.11.0-windows-amd64.spdx.sbom.json) | 432.2 KiB | `native/win/x64` |
-| [kubectl-vela.exe-1.11.0-windows-arm64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/kubectl-vela.exe-1.11.0-windows-arm64.spdx.sbom.json) | 432.2 KiB | `native/win/arm64` |
-| [multiple.intoto.jsonl](https://github.com/kubevela/kubevela/releases/download/v1.11.0/multiple.intoto.jsonl) | 50.9 KiB | `other` |
-| [sbom-vela-cli.spdx.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/sbom-vela-cli.spdx.json) | 686.6 KiB | `other` |
-| [sbom-vela-core.spdx.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/sbom-vela-core.spdx.json) | 672.1 KiB | `other` |
-| [sha256sums.txt](https://github.com/kubevela/kubevela/releases/download/v1.11.0/sha256sums.txt) | 3.7 KiB | `other` |
-| [sha256sums.txt-keyless.pem](https://github.com/kubevela/kubevela/releases/download/v1.11.0/sha256sums.txt-keyless.pem) | 3.2 KiB | `other` |
-| [sha256sums.txt-keyless.sig](https://github.com/kubevela/kubevela/releases/download/v1.11.0/sha256sums.txt-keyless.sig) | 96 B | `other` |
-| [vela-1.11.0-darwin-amd64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela-1.11.0-darwin-amd64.spdx.sbom.json) | 418.9 KiB | `native/darwin/x64` |
-| [vela-1.11.0-darwin-arm64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela-1.11.0-darwin-arm64.spdx.sbom.json) | 418.9 KiB | `native/darwin/arm64` |
-| [vela-1.11.0-linux-amd64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela-1.11.0-linux-amd64.spdx.sbom.json) | 418.9 KiB | `native/linux/x64` |
-| [vela-1.11.0-linux-arm64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela-1.11.0-linux-arm64.spdx.sbom.json) | 418.9 KiB | `native/linux/arm64` |
-| [vela-v1.11.0-darwin-amd64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela-v1.11.0-darwin-amd64.tar.gz) | 33.0 MiB | `native/darwin/x64` |
-| [vela-v1.11.0-darwin-amd64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela-v1.11.0-darwin-amd64.zip) | 33.0 MiB | `native/darwin/x64` |
-| [vela-v1.11.0-darwin-arm64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela-v1.11.0-darwin-arm64.tar.gz) | 31.1 MiB | `native/darwin/arm64` |
-| [vela-v1.11.0-darwin-arm64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela-v1.11.0-darwin-arm64.zip) | 31.1 MiB | `native/darwin/arm64` |
-| [vela-v1.11.0-linux-amd64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela-v1.11.0-linux-amd64.tar.gz) | 32.3 MiB | `native/linux/x64` |
-| [vela-v1.11.0-linux-amd64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela-v1.11.0-linux-amd64.zip) | 32.3 MiB | `native/linux/x64` |
-| [vela-v1.11.0-linux-arm64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela-v1.11.0-linux-arm64.tar.gz) | 29.7 MiB | `native/linux/arm64` |
-| [vela-v1.11.0-linux-arm64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela-v1.11.0-linux-arm64.zip) | 29.7 MiB | `native/linux/arm64` |
-| [vela-v1.11.0-windows-amd64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela-v1.11.0-windows-amd64.tar.gz) | 33.1 MiB | `native/win/x64` |
-| [vela-v1.11.0-windows-amd64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela-v1.11.0-windows-amd64.zip) | 33.1 MiB | `native/win/x64` |
-| [vela-v1.11.0-windows-arm64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela-v1.11.0-windows-arm64.tar.gz) | 29.8 MiB | `native/win/arm64` |
-| [vela-v1.11.0-windows-arm64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela-v1.11.0-windows-arm64.zip) | 29.8 MiB | `native/win/arm64` |
-| [vela.exe-1.11.0-windows-amd64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela.exe-1.11.0-windows-amd64.spdx.sbom.json) | 425.5 KiB | `native/win/x64` |
-| [vela.exe-1.11.0-windows-arm64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.0/vela.exe-1.11.0-windows-arm64.spdx.sbom.json) | 425.5 KiB | `native/win/arm64` |
+| [kubectl-vela-1.11.1-darwin-amd64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.1/kubectl-vela-1.11.1-darwin-amd64.spdx.sbom.json) | 427.4 KiB | `native/darwin/x64` |
+| [kubectl-vela-1.11.1-darwin-arm64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.1/kubectl-vela-1.11.1-darwin-arm64.spdx.sbom.json) | 427.4 KiB | `native/darwin/arm64` |
+| [kubectl-vela-1.11.1-linux-amd64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.1/kubectl-vela-1.11.1-linux-amd64.spdx.sbom.json) | 427.4 KiB | `native/linux/x64` |
+| [kubectl-vela-1.11.1-linux-arm64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.1/kubectl-vela-1.11.1-linux-arm64.spdx.sbom.json) | 427.4 KiB | `native/linux/arm64` |
+| [kubectl-vela-v1.11.1-darwin-amd64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.1/kubectl-vela-v1.11.1-darwin-amd64.tar.gz) | 33.1 MiB | `native/darwin/x64` |
+| [kubectl-vela-v1.11.1-darwin-amd64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.1/kubectl-vela-v1.11.1-darwin-amd64.zip) | 33.1 MiB | `native/darwin/x64` |
+| [kubectl-vela-v1.11.1-darwin-arm64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.1/kubectl-vela-v1.11.1-darwin-arm64.tar.gz) | 31.3 MiB | `native/darwin/arm64` |
+| [kubectl-vela-v1.11.1-darwin-arm64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.1/kubectl-vela-v1.11.1-darwin-arm64.zip) | 31.3 MiB | `native/darwin/arm64` |
+| [kubectl-vela-v1.11.1-linux-amd64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.1/kubectl-vela-v1.11.1-linux-amd64.tar.gz) | 32.5 MiB | `native/linux/x64` |
+| [kubectl-vela-v1.11.1-linux-amd64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.1/kubectl-vela-v1.11.1-linux-amd64.zip) | 32.5 MiB | `native/linux/x64` |
+| [kubectl-vela-v1.11.1-linux-arm64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.1/kubectl-vela-v1.11.1-linux-arm64.tar.gz) | 29.8 MiB | `native/linux/arm64` |
+| [kubectl-vela-v1.11.1-linux-arm64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.1/kubectl-vela-v1.11.1-linux-arm64.zip) | 29.8 MiB | `native/linux/arm64` |
+| [kubectl-vela-v1.11.1-windows-amd64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.1/kubectl-vela-v1.11.1-windows-amd64.tar.gz) | 33.3 MiB | `native/win/x64` |
+| [kubectl-vela-v1.11.1-windows-amd64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.1/kubectl-vela-v1.11.1-windows-amd64.zip) | 33.3 MiB | `native/win/x64` |
+| [kubectl-vela-v1.11.1-windows-arm64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.1/kubectl-vela-v1.11.1-windows-arm64.tar.gz) | 30.0 MiB | `native/win/arm64` |
+| [kubectl-vela-v1.11.1-windows-arm64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.1/kubectl-vela-v1.11.1-windows-arm64.zip) | 30.0 MiB | `native/win/arm64` |
+| [kubectl-vela.exe-1.11.1-windows-amd64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.1/kubectl-vela.exe-1.11.1-windows-amd64.spdx.sbom.json) | 434.0 KiB | `native/win/x64` |
+| [kubectl-vela.exe-1.11.1-windows-arm64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.1/kubectl-vela.exe-1.11.1-windows-arm64.spdx.sbom.json) | 434.0 KiB | `native/win/arm64` |
+| [multiple.intoto.jsonl](https://github.com/kubevela/kubevela/releases/download/v1.11.1/multiple.intoto.jsonl) | 40.7 KiB | `other` |
+| [sbom-vela-cli.spdx.json](https://github.com/kubevela/kubevela/releases/download/v1.11.1/sbom-vela-cli.spdx.json) | 688.4 KiB | `other` |
+| [sbom-vela-core.spdx.json](https://github.com/kubevela/kubevela/releases/download/v1.11.1/sbom-vela-core.spdx.json) | 652.5 KiB | `other` |
+| [sha256sums.txt](https://github.com/kubevela/kubevela/releases/download/v1.11.1/sha256sums.txt) | 3.7 KiB | `other` |
+| [sha256sums.txt-keyless.pem](https://github.com/kubevela/kubevela/releases/download/v1.11.1/sha256sums.txt-keyless.pem) | 3.2 KiB | `other` |
+| [sha256sums.txt-keyless.sig](https://github.com/kubevela/kubevela/releases/download/v1.11.1/sha256sums.txt-keyless.sig) | 96 B | `other` |
+| [vela-1.11.1-darwin-amd64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela-1.11.1-darwin-amd64.spdx.sbom.json) | 420.7 KiB | `native/darwin/x64` |
+| [vela-1.11.1-darwin-arm64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela-1.11.1-darwin-arm64.spdx.sbom.json) | 420.7 KiB | `native/darwin/arm64` |
+| [vela-1.11.1-linux-amd64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela-1.11.1-linux-amd64.spdx.sbom.json) | 420.7 KiB | `native/linux/x64` |
+| [vela-1.11.1-linux-arm64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela-1.11.1-linux-arm64.spdx.sbom.json) | 420.7 KiB | `native/linux/arm64` |
+| [vela-v1.11.1-darwin-amd64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela-v1.11.1-darwin-amd64.tar.gz) | 33.1 MiB | `native/darwin/x64` |
+| [vela-v1.11.1-darwin-amd64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela-v1.11.1-darwin-amd64.zip) | 33.1 MiB | `native/darwin/x64` |
+| [vela-v1.11.1-darwin-arm64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela-v1.11.1-darwin-arm64.tar.gz) | 31.3 MiB | `native/darwin/arm64` |
+| [vela-v1.11.1-darwin-arm64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela-v1.11.1-darwin-arm64.zip) | 31.2 MiB | `native/darwin/arm64` |
+| [vela-v1.11.1-linux-amd64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela-v1.11.1-linux-amd64.tar.gz) | 32.5 MiB | `native/linux/x64` |
+| [vela-v1.11.1-linux-amd64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela-v1.11.1-linux-amd64.zip) | 32.5 MiB | `native/linux/x64` |
+| [vela-v1.11.1-linux-arm64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela-v1.11.1-linux-arm64.tar.gz) | 29.8 MiB | `native/linux/arm64` |
+| [vela-v1.11.1-linux-arm64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela-v1.11.1-linux-arm64.zip) | 29.8 MiB | `native/linux/arm64` |
+| [vela-v1.11.1-windows-amd64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela-v1.11.1-windows-amd64.tar.gz) | 33.3 MiB | `native/win/x64` |
+| [vela-v1.11.1-windows-amd64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela-v1.11.1-windows-amd64.zip) | 33.3 MiB | `native/win/x64` |
+| [vela-v1.11.1-windows-arm64.tar.gz](https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela-v1.11.1-windows-arm64.tar.gz) | 30.0 MiB | `native/win/arm64` |
+| [vela-v1.11.1-windows-arm64.zip](https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela-v1.11.1-windows-arm64.zip) | 30.0 MiB | `native/win/arm64` |
+| [vela.exe-1.11.1-windows-amd64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela.exe-1.11.1-windows-amd64.spdx.sbom.json) | 427.3 KiB | `native/win/x64` |
+| [vela.exe-1.11.1-windows-arm64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.1/vela.exe-1.11.1-windows-arm64.spdx.sbom.json) | 427.3 KiB | `native/win/arm64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/kubevela) 上共有 **9** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/kubevela) 上共有 **9** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `1.11.0` | ✅ latest |
-| Nix unstable | `1.11.0` | ✅ latest |
+| Homebrew | `1.11.1` | ✅ latest |
+| Nix unstable | `1.11.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -130,4 +130,4 @@ kubevela 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261106.yml` · 2026-11-06T06:57:49Z._
+_数据快照: `data/card/261107.yml` · 2026-11-07T06:26:24Z._

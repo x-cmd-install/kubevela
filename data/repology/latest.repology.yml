@@ -1,7 +1,19 @@
+- repo: aur
+  srcname: kubevela
+  binname: kubevela
+  visiblename: kubevela
+  version: 1.8.1
+  origversion: 1.8.1-1
+  status: outdated
+  summary: The Modern Application Platform. (CLI)
+  maintainers:
+    - cjc7373@aur
+  licenses:
+    - Apache
 - repo: homebrew
   srcname: kubevela
   visiblename: kubevela
-  version: 1.11.0
+  version: 1.11.1
   origversion: null
   status: newest
   summary: Application Platform based on Kubernetes and Open Application Model
@@ -23,18 +35,6 @@
     - fallback-mnt-nix@repology
   licenses:
     - Apache-2.0
-- repo: aur
-  srcname: kubevela
-  binname: kubevela
-  visiblename: kubevela
-  version: 1.8.1
-  origversion: 1.8.1-1
-  status: outdated
-  summary: The Modern Application Platform. (CLI)
-  maintainers:
-    - cjc7373@aur
-  licenses:
-    - Apache
 - repo: nix_stable_24_11
   srcname: kubevela
   visiblename: kubevela
@@ -84,7 +84,7 @@
   visiblename: kubevela
   version: 1.11.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Application delivery platform to deploy and operate applications in hybrid, multi-cloud environments
   maintainers:
     - fallback-mnt-nix@repology

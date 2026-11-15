@@ -14,11 +14,11 @@ x install kubevela
 
 ## Code insight
 
-Total: **441,390** lines of code across **2588** files in the top 5 languages.
+Total: **441,560** lines of code across **2588** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 348,749 | 63,044 | 43,043 | 1710 |
+| Go | 348,919 | 63,072 | 43,056 | 1710 |
 | Yaml | 84,639 | 1,593 | 1,243 | 823 |
 | Json | 4,468 | 0 | 1 | 16 |
 | Sh | 1,196 | 263 | 233 | 30 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.11.1` (2026-11-06)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-14
 - **Assets in release**: 42
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 214 · **Merged PRs**: 4121 · **Open PRs**: 105 · **Closed issues**: 2085 · **Open issues**: 161 · **Commits**: 4252
+- **Releases**: 214 · **Merged PRs**: 4122 · **Open PRs**: 105 · **Closed issues**: 2085 · **Open issues**: 161 · **Commits**: 4253
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 2 | 55 | 20 | 9 | 11 | 47 |
-| last60d | 2026-09-15 | 2 | 108 | 25 | 21 | 21 | 97 |
-| 90d | 2026-08-16 | 2 | 129 | 27 | 32 | 23 | 115 |
-| last180d | 2026-05-18 | 8 | 183 | 70 | 62 | 41 | 164 |
-| 360d | 2025-11-19 | 14 | 246 | 82 | 86 | 58 | 218 |
-| last720d | 2024-11-24 | 20 | 365 | 92 | 148 | 96 | 339 |
+| 30d | 2026-10-16 | 2 | 48 | 18 | 9 | 10 | 32 |
+| last60d | 2026-09-16 | 2 | 107 | 25 | 19 | 21 | 93 |
+| 90d | 2026-08-17 | 2 | 127 | 27 | 30 | 23 | 114 |
+| last180d | 2026-05-19 | 8 | 184 | 70 | 62 | 41 | 162 |
+| 360d | 2025-11-20 | 14 | 246 | 81 | 86 | 58 | 215 |
+| last720d | 2024-11-25 | 20 | 366 | 92 | 148 | 96 | 340 |
 
 ## Release assets
 
@@ -130,4 +130,4 @@ Install metadata for kubevela lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:40:55Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:50:39Z._

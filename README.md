@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.11.1` (2026-11-06)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-16
 - **Assets in release**: 42
 
 ## Popularity
 
-- **Stars**: 7,920 · **Forks**: 1,077 · **Open issues**: 2,246 · **Contributors**: 297
+- **Stars**: 7,921 · **Forks**: 1,079 · **Open issues**: 2,247 · **Contributors**: 297
 
 ## Totals (cumulative)
 
-- **Releases**: 214 · **Merged PRs**: 4122 · **Open PRs**: 105 · **Closed issues**: 2085 · **Open issues**: 161 · **Commits**: 4253
+- **Releases**: 214 · **Merged PRs**: 4124 · **Open PRs**: 112 · **Closed issues**: 2085 · **Open issues**: 162 · **Commits**: 4255
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 2 | 48 | 18 | 9 | 10 | 32 |
-| last60d | 2026-09-16 | 2 | 107 | 25 | 19 | 21 | 93 |
-| 90d | 2026-08-17 | 2 | 127 | 27 | 30 | 23 | 114 |
-| last180d | 2026-05-19 | 8 | 184 | 70 | 62 | 41 | 162 |
-| 360d | 2025-11-20 | 14 | 246 | 81 | 86 | 58 | 215 |
-| last720d | 2024-11-25 | 20 | 366 | 92 | 148 | 96 | 340 |
+| 30d | 2026-10-17 | 2 | 50 | 25 | 9 | 10 | 34 |
+| last60d | 2026-09-17 | 2 | 108 | 32 | 19 | 22 | 95 |
+| 90d | 2026-08-18 | 2 | 129 | 34 | 29 | 24 | 116 |
+| last180d | 2026-05-20 | 8 | 186 | 77 | 62 | 42 | 164 |
+| 360d | 2025-11-21 | 14 | 248 | 88 | 86 | 59 | 217 |
+| last720d | 2024-11-26 | 20 | 368 | 99 | 148 | 97 | 342 |
 
 ## Release assets
 
@@ -130,4 +130,4 @@ Install metadata for kubevela lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:50:39Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:51:25Z._

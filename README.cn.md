@@ -32,7 +32,7 @@ x install kubevela
 
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 - **Vulnerabilities** (0/10) — 53 existing vulnerabilities detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Branch-Protection** (-1/10) — internal error: error during GetBranch(release-1.9): error during branchesHandler.query: internal error: githubv4.Query:…
 
 ## 源代码
 
@@ -52,18 +52,18 @@ x install kubevela
 
 ## 累计统计
 
-- **发布数**: 214 · **已合并 PR**: 4124 · **开放 PR**: 112 · **已关闭 issue**: 2085 · **开放 issue**: 162 · **提交数**: 4255
+- **发布数**: 214 · **已合并 PR**: 4128 · **开放 PR**: 120 · **已关闭 issue**: 2086 · **开放 issue**: 161 · **提交数**: 4257
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 50 | 25 | 9 | 10 | 34 |
-| last60d | 2026-09-17 | 2 | 108 | 32 | 19 | 22 | 95 |
-| 90d | 2026-08-18 | 2 | 129 | 34 | 29 | 24 | 116 |
-| last180d | 2026-05-20 | 8 | 186 | 77 | 62 | 42 | 164 |
-| 360d | 2025-11-21 | 14 | 248 | 88 | 86 | 59 | 217 |
-| last720d | 2024-11-26 | 20 | 368 | 99 | 148 | 97 | 342 |
+| 30d | 2026-10-18 | 2 | 53 | 34 | 9 | 10 | 36 |
+| last60d | 2026-09-18 | 2 | 110 | 41 | 19 | 22 | 97 |
+| 90d | 2026-08-19 | 2 | 131 | 43 | 28 | 24 | 118 |
+| last180d | 2026-05-21 | 8 | 189 | 84 | 61 | 42 | 166 |
+| 360d | 2025-11-22 | 14 | 252 | 96 | 87 | 58 | 219 |
+| last720d | 2024-11-27 | 20 | 372 | 107 | 149 | 96 | 344 |
 
 ## Release 资产
 
@@ -130,4 +130,4 @@ kubevela 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T06:51:26Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T09:42:20Z._

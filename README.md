@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 - **Vulnerabilities** (0/10) — 53 existing vulnerabilities detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Branch-Protection** (-1/10) — internal error: error during GetBranch(release-1.9): error during branchesHandler.query: internal error: githubv4.Query:…
 
 ## Source
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 214 · **Merged PRs**: 4124 · **Open PRs**: 112 · **Closed issues**: 2085 · **Open issues**: 162 · **Commits**: 4255
+- **Releases**: 214 · **Merged PRs**: 4128 · **Open PRs**: 120 · **Closed issues**: 2086 · **Open issues**: 161 · **Commits**: 4257
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 50 | 25 | 9 | 10 | 34 |
-| last60d | 2026-09-17 | 2 | 108 | 32 | 19 | 22 | 95 |
-| 90d | 2026-08-18 | 2 | 129 | 34 | 29 | 24 | 116 |
-| last180d | 2026-05-20 | 8 | 186 | 77 | 62 | 42 | 164 |
-| 360d | 2025-11-21 | 14 | 248 | 88 | 86 | 59 | 217 |
-| last720d | 2024-11-26 | 20 | 368 | 99 | 148 | 97 | 342 |
+| 30d | 2026-10-18 | 2 | 53 | 34 | 9 | 10 | 36 |
+| last60d | 2026-09-18 | 2 | 110 | 41 | 19 | 22 | 97 |
+| 90d | 2026-08-19 | 2 | 131 | 43 | 28 | 24 | 118 |
+| last180d | 2026-05-21 | 8 | 189 | 84 | 61 | 42 | 166 |
+| 360d | 2025-11-22 | 14 | 252 | 96 | 87 | 58 | 219 |
+| last720d | 2024-11-27 | 20 | 372 | 107 | 149 | 96 | 344 |
 
 ## Release assets
 
@@ -130,4 +130,4 @@ Install metadata for kubevela lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:51:25Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:42:19Z._

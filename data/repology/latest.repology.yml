@@ -82,9 +82,9 @@
 - repo: nix_unstable
   srcname: kubevela
   visiblename: kubevela
-  version: 1.11.0
+  version: 1.11.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Application delivery platform to deploy and operate applications in hybrid, multi-cloud environments
   maintainers:
     - fallback-mnt-nix@repology

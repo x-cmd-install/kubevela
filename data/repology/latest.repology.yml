@@ -13,7 +13,7 @@
 - repo: homebrew
   srcname: kubevela
   visiblename: kubevela
-  version: 1.11.1
+  version: 1.11.2
   origversion: null
   status: newest
   summary: Application Platform based on Kubernetes and Open Application Model
@@ -84,7 +84,7 @@
   visiblename: kubevela
   version: 1.11.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Application delivery platform to deploy and operate applications in hybrid, multi-cloud environments
   maintainers:
     - fallback-mnt-nix@repology

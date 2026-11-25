@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 34757435,
       "digest": "sha256:71f50031f95b664598743498626e8c6d915298f94cd57af2cc14a1e3ddadc8dd",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-11-21T17:39:30Z",
       "updated_at": "2026-11-21T17:39:32Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/kubectl-vela-v1.11.2-darwin-amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 34752654,
       "digest": "sha256:b6d1679d3a9cd675f12ac5a4650c325093220eda66d53f2100c36078f9edf0da",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-21T17:39:36Z",
       "updated_at": "2026-11-21T17:39:37Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/kubectl-vela-v1.11.2-darwin-amd64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 32791422,
       "digest": "sha256:0f03ce14d757f67bb848e5931b15121705272ca6dba4475694e140ebb06c1c46",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-21T17:39:29Z",
       "updated_at": "2026-11-21T17:39:31Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/kubectl-vela-v1.11.2-darwin-arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 32791820,
       "digest": "sha256:f87e87a11d3bd0fd80da0679e14f6191fd13de95108914cc45ea07701c40b2c4",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-21T17:39:34Z",
       "updated_at": "2026-11-21T17:39:35Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/kubectl-vela-v1.11.2-darwin-arm64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 34055587,
       "digest": "sha256:a2a623eb0c62dbfdff6da56bd165b99ec884532f4bfaef118a8300ded36f6b4e",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-11-21T17:39:30Z",
       "updated_at": "2026-11-21T17:39:33Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/kubectl-vela-v1.11.2-linux-amd64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 34056345,
       "digest": "sha256:dc75b7f80f93d4a529f86af1f4c3cdccbde8137a00d2d848b3e589301b2b00c3",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-11-21T17:39:33Z",
       "updated_at": "2026-11-21T17:39:36Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/kubectl-vela-v1.11.2-linux-amd64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 31277796,
       "digest": "sha256:0d71775a15ed3b6352cad5fae69848e8bc5ab0e5142f8b393142dcb1e09501a2",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-21T17:39:30Z",
       "updated_at": "2026-11-21T17:39:32Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/kubectl-vela-v1.11.2-linux-arm64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 31271341,
       "digest": "sha256:7af1f805a690d5cc4b7ec40d266132dbf6e9e236913d62d67dd5211a10cabc7a",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-21T17:39:32Z",
       "updated_at": "2026-11-21T17:39:34Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/kubectl-vela-v1.11.2-linux-arm64.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 34918581,
       "digest": "sha256:39623c2d789f517b6474229bea5f78bb0ebf4bee4a27378e117618d046c2f77f",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-21T17:39:33Z",
       "updated_at": "2026-11-21T17:39:35Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/kubectl-vela-v1.11.2-windows-amd64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 34909654,
       "digest": "sha256:6ea6d0209b33503b0beb66d6ae626b14ccd83ae48029f42a29b30dd78748193d",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-21T17:39:35Z",
       "updated_at": "2026-11-21T17:39:37Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/kubectl-vela-v1.11.2-windows-amd64.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 31428662,
       "digest": "sha256:73afff46cd9f4f85dc4e2dcd896d4be27121b95f423e637bdf55cddb9d43d03a",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-21T17:39:31Z",
       "updated_at": "2026-11-21T17:39:32Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/kubectl-vela-v1.11.2-windows-arm64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 31428868,
       "digest": "sha256:f48f8cbde11d40fce8a64a340e9a1e5a77769c594e7ee5f32fac4288bd77e030",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-21T17:39:34Z",
       "updated_at": "2026-11-21T17:39:35Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/kubectl-vela-v1.11.2-windows-arm64.zip"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 3772,
       "digest": "sha256:af49c541fa72081a3f97a22cdd6b20862b5885e7603721fe41bc0f93bf0f3b80",
-      "download_count": 24,
+      "download_count": 55,
       "created_at": "2026-11-21T17:39:38Z",
       "updated_at": "2026-11-21T17:39:39Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/sha256sums.txt"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 34761887,
       "digest": "sha256:d977b4efe6fa59797f58ced70b7a2b810b5a06ca50caaddf8169402c89a93b36",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-21T17:39:24Z",
       "updated_at": "2026-11-21T17:39:27Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/vela-v1.11.2-darwin-amd64.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 34755825,
       "digest": "sha256:0385367d0767feb07cdebea9780d93ef905394a58cc529c688e6b98f5599da39",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-21T17:39:24Z",
       "updated_at": "2026-11-21T17:39:27Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/vela-v1.11.2-darwin-amd64.zip"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 32794494,
       "digest": "sha256:41326472147c44189d0e2af15ce20e02950d40fc25e654c854643d43b6332620",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-21T17:39:21Z",
       "updated_at": "2026-11-21T17:39:24Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/vela-v1.11.2-darwin-arm64.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 32795393,
       "digest": "sha256:e6b488037de32a37f6a6ba56a581e6064453896dd8e8320bac8e4a00337f380d",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-21T17:39:24Z",
       "updated_at": "2026-11-21T17:39:26Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/vela-v1.11.2-darwin-arm64.zip"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 34055924,
       "digest": "sha256:ebe703c1638b8858e766ad233b673f5c7be5897102451ea480f62de89bf3006b",
-      "download_count": 1225,
+      "download_count": 1662,
       "created_at": "2026-11-21T17:39:24Z",
       "updated_at": "2026-11-21T17:39:27Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/vela-v1.11.2-linux-amd64.tar.gz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 34057324,
       "digest": "sha256:cae57bc3de48b0ba1069979177593c2b24f16a7019c24f77bf4495c3372dea83",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-21T17:39:27Z",
       "updated_at": "2026-11-21T17:39:29Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/vela-v1.11.2-linux-amd64.zip"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 31275804,
       "digest": "sha256:e8b402a48e930d57d2e764e6b97948fb53949c1fab448d47f9285a6d4dd6866f",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-11-21T17:39:21Z",
       "updated_at": "2026-11-21T17:39:24Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/vela-v1.11.2-linux-arm64.tar.gz"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 31269194,
       "digest": "sha256:15c52e63914a3beb6de5572347dfc012a1fd09862509c60f8c75717cb6fc0a2d",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-21T17:39:28Z",
       "updated_at": "2026-11-21T17:39:30Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/vela-v1.11.2-linux-arm64.zip"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 34922767,
       "digest": "sha256:02060a79370666784ebdfae9fed4f1df856dcd59a01e4e8517d39bc2402171ae",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-21T17:39:21Z",
       "updated_at": "2026-11-21T17:39:24Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/vela-v1.11.2-windows-amd64.tar.gz"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 34914210,
       "digest": "sha256:ee08fdb23df1da68bf663e65ed264e6a722aa3f1512b0803c0b4e2e28ee19274",
-      "download_count": 39,
+      "download_count": 64,
       "created_at": "2026-11-21T17:39:27Z",
       "updated_at": "2026-11-21T17:39:30Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/vela-v1.11.2-windows-amd64.zip"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 31427327,
       "digest": "sha256:c56bd568b9b1ebb61136e1f33352134de8918de66ff3e01d237f9b0c435e4f56",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-21T17:39:21Z",
       "updated_at": "2026-11-21T17:39:24Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/vela-v1.11.2-windows-arm64.tar.gz"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 31421433,
       "digest": "sha256:b440cfb03e4cb693e3e5c5131347f513e0b3379a9cae0d56d4c3a4dd4ec22f73",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-21T17:39:27Z",
       "updated_at": "2026-11-21T17:39:29Z",
       "browser_download_url": "https://github.com/kubevela/kubevela/releases/download/v1.11.2/vela-v1.11.2-windows-arm64.zip"

@@ -14,25 +14,25 @@ x install kubevela
 
 ## Code insight
 
-Total: **471,352** lines of code across **3044** files in the top 5 languages.
+Total: **471,869** lines of code across **3052** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 364,441 | 66,237 | 44,647 | 1804 |
-| Yaml | 98,701 | 1,683 | 1,231 | 1183 |
+| Go | 364,911 | 66,352 | 44,695 | 1807 |
+| Yaml | 98,748 | 1,685 | 1,231 | 1188 |
 | Json | 4,468 | 0 | 1 | 16 |
 | Sh | 1,400 | 316 | 254 | 32 |
 | Mustache | 1,177 | 4 | 202 | 9 |
 
 ## OpenSSF Scorecard
 
-Overall score: **8.2 / 10**
+Overall score: **8.9 / 10**
 
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Vulnerabilities** (0/10) — 44 existing vulnerabilities detected
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Branch-Protection** (-1/10) — internal error: error during GetBranch(release-1.9): error during branchesHandler.query: internal error: githubv4.Query:…
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.9.15` (2026-11-21)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 42
 
 ## Popularity
 
-- **Stars**: 7,927 · **Forks**: 1,082 · **Open issues**: 2,256 · **Contributors**: 300
+- **Stars**: 7,929 · **Forks**: 1,081 · **Open issues**: 2,260 · **Contributors**: 300
 
 ## Totals (cumulative)
 
-- **Releases**: 218 · **Merged PRs**: 4210 · **Open PRs**: 66 · **Closed issues**: 2152 · **Open issues**: 104 · **Commits**: 4290
+- **Releases**: 218 · **Merged PRs**: 4214 · **Open PRs**: 69 · **Closed issues**: 2152 · **Open issues**: 108 · **Commits**: 4292
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 5 | 119 | 28 | 12 | 23 | 64 |
-| last60d | 2026-09-25 | 6 | 176 | 34 | 29 | 33 | 124 |
-| 90d | 2026-08-26 | 6 | 199 | 34 | 41 | 34 | 146 |
-| last180d | 2026-05-28 | 12 | 267 | 53 | 75 | 41 | 199 |
-| 360d | 2025-11-29 | 18 | 328 | 60 | 107 | 57 | 251 |
-| last720d | 2024-12-04 | 24 | 452 | 64 | 183 | 80 | 376 |
+| 30d | 2026-10-26 | 5 | 121 | 31 | 12 | 27 | 66 |
+| last60d | 2026-09-26 | 6 | 180 | 37 | 29 | 37 | 126 |
+| 90d | 2026-08-27 | 6 | 202 | 37 | 41 | 38 | 148 |
+| last180d | 2026-05-29 | 12 | 271 | 56 | 74 | 45 | 201 |
+| 360d | 2025-11-30 | 18 | 332 | 63 | 107 | 61 | 253 |
+| last720d | 2024-12-05 | 24 | 455 | 67 | 183 | 84 | 378 |
 
 ## Release assets
 
@@ -130,4 +130,4 @@ Install metadata for kubevela lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:47:05Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:51:42Z._

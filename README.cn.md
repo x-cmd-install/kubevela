@@ -48,22 +48,22 @@ x install kubevela
 
 ## 流行度
 
-- **Star**: 7,929 · **Fork**: 1,081 · **开放 issue**: 2,260 · **贡献者**: 300
+- **Star**: 7,929 · **Fork**: 1,081 · **开放 issue**: 2,264 · **贡献者**: 300
 
 ## 累计统计
 
-- **发布数**: 218 · **已合并 PR**: 4214 · **开放 PR**: 69 · **已关闭 issue**: 2152 · **开放 issue**: 108 · **提交数**: 4292
+- **发布数**: 218 · **已合并 PR**: 4215 · **开放 PR**: 71 · **已关闭 issue**: 2152 · **开放 issue**: 112 · **提交数**: 4292
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 5 | 121 | 31 | 12 | 27 | 66 |
-| last60d | 2026-09-26 | 6 | 180 | 37 | 29 | 37 | 126 |
-| 90d | 2026-08-27 | 6 | 202 | 37 | 41 | 38 | 148 |
-| last180d | 2026-05-29 | 12 | 271 | 56 | 74 | 45 | 201 |
-| 360d | 2025-11-30 | 18 | 332 | 63 | 107 | 61 | 253 |
-| last720d | 2024-12-05 | 24 | 455 | 67 | 183 | 84 | 378 |
+| 30d | 2026-10-27 | 5 | 119 | 31 | 10 | 31 | 66 |
+| last60d | 2026-09-27 | 6 | 178 | 39 | 29 | 41 | 126 |
+| 90d | 2026-08-28 | 6 | 203 | 39 | 41 | 42 | 148 |
+| last180d | 2026-05-30 | 12 | 272 | 58 | 74 | 49 | 201 |
+| 360d | 2025-12-01 | 18 | 333 | 65 | 107 | 65 | 253 |
+| last720d | 2024-12-06 | 24 | 456 | 69 | 183 | 88 | 378 |
 
 ## Release 资产
 
@@ -112,15 +112,6 @@ x install kubevela
 | [vela.exe-1.11.2-windows-amd64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.2/vela.exe-1.11.2-windows-amd64.spdx.sbom.json) | 426.4 KiB | `native/win/x64` |
 | [vela.exe-1.11.2-windows-arm64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.2/vela.exe-1.11.2-windows-arm64.spdx.sbom.json) | 426.4 KiB | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/kubevela) 上共有 **9** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `1.11.2` | ✅ latest |
-| Nix unstable | `1.11.1` | ⚠️ outdated |
-
 ## 改进这些数据
 
 kubevela 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `kubevela` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -130,4 +121,4 @@ kubevela 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T08:51:43Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T10:02:57Z._

@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,929 · **Forks**: 1,081 · **Open issues**: 2,260 · **Contributors**: 300
+- **Stars**: 7,929 · **Forks**: 1,081 · **Open issues**: 2,264 · **Contributors**: 300
 
 ## Totals (cumulative)
 
-- **Releases**: 218 · **Merged PRs**: 4214 · **Open PRs**: 69 · **Closed issues**: 2152 · **Open issues**: 108 · **Commits**: 4292
+- **Releases**: 218 · **Merged PRs**: 4215 · **Open PRs**: 71 · **Closed issues**: 2152 · **Open issues**: 112 · **Commits**: 4292
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 5 | 121 | 31 | 12 | 27 | 66 |
-| last60d | 2026-09-26 | 6 | 180 | 37 | 29 | 37 | 126 |
-| 90d | 2026-08-27 | 6 | 202 | 37 | 41 | 38 | 148 |
-| last180d | 2026-05-29 | 12 | 271 | 56 | 74 | 45 | 201 |
-| 360d | 2025-11-30 | 18 | 332 | 63 | 107 | 61 | 253 |
-| last720d | 2024-12-05 | 24 | 455 | 67 | 183 | 84 | 378 |
+| 30d | 2026-10-27 | 5 | 119 | 31 | 10 | 31 | 66 |
+| last60d | 2026-09-27 | 6 | 178 | 39 | 29 | 41 | 126 |
+| 90d | 2026-08-28 | 6 | 203 | 39 | 41 | 42 | 148 |
+| last180d | 2026-05-30 | 12 | 272 | 58 | 74 | 49 | 201 |
+| 360d | 2025-12-01 | 18 | 333 | 65 | 107 | 65 | 253 |
+| last720d | 2024-12-06 | 24 | 456 | 69 | 183 | 88 | 378 |
 
 ## Release assets
 
@@ -112,15 +112,6 @@ Lowest-scoring checks:
 | [vela.exe-1.11.2-windows-amd64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.2/vela.exe-1.11.2-windows-amd64.spdx.sbom.json) | 426.4 KiB | `native/win/x64` |
 | [vela.exe-1.11.2-windows-arm64.spdx.sbom.json](https://github.com/kubevela/kubevela/releases/download/v1.11.2/vela.exe-1.11.2-windows-arm64.spdx.sbom.json) | 426.4 KiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **9** distros on [repology.org](https://repology.org/project/kubevela). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.11.2` | ✅ latest |
-| Nix unstable | `1.11.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for kubevela lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kubevela` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -130,4 +121,4 @@ Install metadata for kubevela lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:51:42Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T10:02:56Z._
